@@ -1,0 +1,53 @@
+<div class="mb-4 h2 text-sucess">
+  <form [formGroup]="form" (ngSubmit)="onSubmit()">
+    <div class="mb-3">
+      <label for="fullName" class="form-label">Full Name</label>
+      <input
+        type="text"
+        class="form-control bg-body-secondary"
+        id="fullName"
+        formControlName="fullName"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="email" class="form-label bg-body-secondary">Email</label>
+      <input
+        type="email"
+        class="form-control"
+        id="email"
+        formControlName="email"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="password" class="form-label bg-body-secondary"
+        >Password</label
+      >
+      <input
+        type="password"
+        class="form-control"
+        id="password"
+        formControlName="password"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="confirmPassword" class="form-label bg-body-secondary"
+        >Confirm Password</label
+      >
+      <input
+        type="password"
+        class="form-control bg-body-secondary"
+        id="confirmPassword"
+        formControlName="confirmPassword"
+      />
+    </div>
+    <div class="mt-4">
+      <button
+        type="submit"
+        class="btn btn-success w-100 rounded-3"
+        [disabled]="form.invalid"
+      >
+        Register
+      </button>
+    </div>
+  </form>
+</div>
