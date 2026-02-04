@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|d:\\ibrahim-files\\fullstack_projects\\new folder\\user_registration_authentication_authorization_jwt\\backend\\authecapi\\authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|d:\\ibrahim-files\\fullstack_projects\\new folder\\user_registration_authentication_authorization_jwt\\backend\\authecapi\\authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|d:\\ibrahim-files\\fullstack_projects\\new folder\\user_registration_authentication_authorization_jwt\\backend\\authecapi\\authecapi\\migrations\\20260122105314_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\migrations\\20260122105314_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|d:\\ibrahim-files\\fullstack_projects\\new folder\\user_registration_authentication_authorization_jwt\\backend\\authecapi\\authecapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|d:\\ibrahim-files\\fullstack_projects\\new folder\\user_registration_authentication_authorization_jwt\\backend\\authecapi\\authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|d:\\ibrahim-files\\fullstack_projects\\new folder\\user_registration_authentication_authorization_jwt\\backend\\authecapi\\authecapi\\models\\testdeleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277BF561-D0B6-4102-A0D1-F7EC61B70810}|AuthECAPI\\AuthECAPI.csproj|solutionrelative:authecapi\\models\\testdeleteme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260122105314_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Migrations\\20260122105314_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Migrations\\20260122105314_InitialCreate.cs",
+              "ToolTip": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Migrations\\20260122105314_InitialCreate.cs",
+              "RelativeToolTip": "AuthECAPI\\Migrations\\20260122105314_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:50:32.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "AuthECAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:36:13.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthECAPI\\appsettings.json",
+              "ToolTip": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\appsettings.json",
+              "RelativeToolTip": "AuthECAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T11:01:44.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:00:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDeleteme.cs",
+              "DocumentMoniker": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Models\\TestDeleteme.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Models\\TestDeleteme.cs",
+              "ToolTip": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Models\\TestDeleteme.cs",
+              "RelativeToolTip": "AuthECAPI\\Models\\TestDeleteme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:00:08.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthECAPI\\Program.cs",
+              "ToolTip": "D:\\Ibrahim-Files\\FullStack_Projects\\New folder\\User_Registration_Authentication_Authorization_JWT\\BackEnd\\AuthECAPI\\AuthECAPI\\Program.cs",
+              "RelativeToolTip": "AuthECAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T10:25:38.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
